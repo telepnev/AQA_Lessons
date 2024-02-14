@@ -1,0 +1,10 @@
+{
+  "name": "Gora",
+  "age": 21,
+  "sex": "male",
+  "hobi": [
+    "apple",
+    "banana",
+    "orange"
+  ]
+}
